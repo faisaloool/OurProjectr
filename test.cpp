@@ -1,4 +1,4 @@
-#inlcude<iostream>
+#include<iostream>
 using namespce std;
 int main(){
   cout <<"tf is this";
